@@ -1,0 +1,33 @@
+_repo: Die-Milchstrasse_52373
+_version: 0.0.1
+alternative_title: Die Milchstrasse
+contributor:
+  illustrators:
+  - agent_name: Helbig, Georg
+    gutenberg_agent_id: '40682'
+    url: http://www.gutenberg.org/2009/agents/40682
+  - agent_name: Oeffinger, R.
+    gutenberg_agent_id: '46823'
+    url: http://www.gutenberg.org/2009/agents/46823
+creator:
+  author:
+    agent_name: Kahn, Fritz
+    birthdate: 1888
+    deathdate: 1968
+    gutenberg_agent_id: '40681'
+    url: http://www.gutenberg.org/2009/agents/40681
+description: ''
+gutenberg_issued: '2016-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52373'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Milky Way'
+- !lcc 'QB'
+- GITenberg
+title: Die Milchstraße
+url: http://www.gutenberg.org/ebooks/52373
