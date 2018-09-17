@@ -1,5 +1,5 @@
 _repo: Die-Milchstrasse_52373
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Die Milchstrasse
 contributor:
   illustrators:
@@ -9,6 +9,9 @@ contributor:
   - agent_name: Oeffinger, R.
     gutenberg_agent_id: '46823'
     url: http://www.gutenberg.org/2009/agents/46823
+covers:
+- cover_type: archival
+  image_path: 52373-h/images/cover.jpg
 creator:
   author:
     agent_name: Kahn, Fritz
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '40681'
     url: http://www.gutenberg.org/2009/agents/40681
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52373#Die-Milchstrasse
 gutenberg_issued: '2016-06-19'
 gutenberg_type: Text
 identifiers:
